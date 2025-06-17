@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/edenyavin-osv-mcp-badge.png)](https://mseep.ai/app/edenyavin-osv-mcp)
+
 
 # MCP Server For OSV 
 
